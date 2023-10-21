@@ -13,7 +13,7 @@ import Settings from "./pages/Settings";
 import Checkin from "./pages/Checkin";
 import Account from "./pages/Account";
 import Login from "./pages/Login";
-import PageNotFound from "./Pages/PageNotFound";
+import PageNotFound from "./pages/PageNotFound";
 import AppLayout from "./ui/AppLayout";
 import ProtectedRoute from "./ui/ProtectedRoute";
 import { DarkModeProvider } from "./context/DarkModeContext";
