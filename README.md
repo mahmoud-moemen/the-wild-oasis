@@ -1,6 +1,6 @@
 # The wild Oasis
 
-Main project
+Main project. Built with React Query and Supabase.
 
 
 # React + Vite
